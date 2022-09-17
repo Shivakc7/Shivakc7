@@ -1,10 +1,10 @@
-## Hey there! I'm Shiva.
+# Hey there! I'm Shiva.
 
-I'm a frontend developer interested in the JamStack. I build elegant, simple, and intuitive web interfaces that effectively communicate products to their intended  users using modern web technologies such as Javascript, Typescript, React, Gatsby, NextJs, TailwindCSS, Styled-Components and more...
+I'm a frontend developer interested in the MERN. I build elegant, simple, and intuitive web interfaces that effectively communicate products to their intended  users using modern web technologies such as Javascript, React, NextJs, TailwindCSS, Styled-Components and more...
 
 On the side, I explore the space of technical content creation, developer marketing and developer education for tech startups as a technical writer/devrel 🥑.
  
-- 👯 I’m looking to collaborate/build on projects, and technical writing gigs
+- 👯 I’m looking to collaborate/build on projects.
 
 - 📫 you can emaill me at [shivacr77@gmail.com](mailto:shivacr77@gmail.com) or drop me a dm on [Twitter](https://twitter.com/See_vha)
 
