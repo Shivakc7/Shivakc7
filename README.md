@@ -1,4 +1,4 @@
-<p align="center"><a href="https://shivakc.com.np" target="_blank"> #Hello! I'm Shiva</a></p>
+<p align="center"><a href="https://shivakc.com.np" target="_blank"> Hello! I'm Shiva</a></p>
 
 I'm a frontend developer interested in the MERN. I build elegant, simple, and intuitive web interfaces that effectively communicate products to their intended  users using modern web technologies such as Javascript, React, NextJs, TailwindCSS, Styled-Components and many more..
  
