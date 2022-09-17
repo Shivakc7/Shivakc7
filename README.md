@@ -8,7 +8,6 @@ I'm a frontend developer interested in the MERN. I build elegant, simple, and in
 
 - 📫 you can emaill me at [shivacr77@gmail.com](mailto:shivacr77@gmail.com) or drop me a dm on [Twitter](https://twitter.com/See_vha)
 
-- ⚡ Fun fact: I watch animes a lot like a whole lot 🚶‍♂️🚶‍♂️
 
 I'm currently looking for new opportunities, so my inbox is always open. Have a question? or do you just want to say hi? feel free to drop me a DM. 🤗
 
