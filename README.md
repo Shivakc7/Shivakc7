@@ -1,4 +1,4 @@
-## Hello Stranger, I'm Victor 👋
+## Hey there! I'm Shiva.
 
 I'm a frontend developer interested in the JamStack. I build elegant, simple, and intuitive web interfaces that effectively communicate products to their intended  users using modern web technologies such as Javascript, Typescript, React, Gatsby, NextJs, TailwindCSS, Styled-Components and more...
 
@@ -6,7 +6,7 @@ On the side, I explore the space of technical content creation, developer market
  
 - 👯 I’m looking to collaborate/build on projects, and technical writing gigs
 
-- 📫 you can emaill me at [vickyikechukwu13@gmail.com](mailto:vickyikechukwu13@gmail.com) or drop me a dm on [Twitter](https://twitter.com/Victor_codejs)
+- 📫 you can emaill me at [shivacr77@gmail.com](mailto:shivacr77@gmail.com) or drop me a dm on [Twitter](https://twitter.com/See_vha)
 
 - ⚡ Fun fact: I watch animes a lot like a whole lot 🚶‍♂️🚶‍♂️
 
@@ -37,13 +37,13 @@ I'm currently looking for new opportunities, so my inbox is always open. Have a 
 
 <p align="center">
 <a href="https://github.com/victor-cody">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victor-cody&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victor-cody&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shivakc7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shivakc7&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=victor-cody&color=blueviolet&style=flat">
+<img src="https://komarev.com/ghpvc/?username=Shivakc7&color=blueviolet&style=flat">
 </p>
 
 ### My Blogs
